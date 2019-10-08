@@ -69,3 +69,14 @@ for i in stride(from: 10, to: 1, by: -1) {
     print("Ajeet \(i)")
 }
 
+var x0 = Int()
+print(x0)
+
+var x00: Int?
+print(x00)
+
+var str1 = String()
+print(str1)
+
+var str: String?
+print(str)
